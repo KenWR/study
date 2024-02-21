@@ -1,1 +1,15 @@
-[1장 네트워크 시작하기](#https://github.com/KenWR/study/blob/main/books/IT_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%EC%9E%85%EB%AC%B8/1%EC%9E%A5_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+책 내용을 정리하며 추가적으로 스스로 공부한 내용을 토대로 살을 덧붙여 작업함
+
+[1장 네트워크 시작하기](https://github.com/KenWR/study/blob/main/books/IT_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%EC%9E%85%EB%AC%B8/1%EC%9E%A5_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)    
+[2장 네트워크 연결과 구성 요소]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
