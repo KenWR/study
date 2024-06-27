@@ -1,1 +1,0 @@
-[SNUON](./snuon-os/README.md) 에서의 운영체제의 기초 : 쉽게 배우는 운영체제 원리   
