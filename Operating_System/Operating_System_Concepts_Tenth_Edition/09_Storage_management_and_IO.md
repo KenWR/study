@@ -54,7 +54,7 @@ I/O Systems
 컴퓨터는 수많은 I/O 작업을 수행함   
 OS는 I/O를 수행을 제어하고 I/O 장치를 관리함
 
-I/O 장치 controller는 모두 버스를 지나고 그 controller들을 OS가 관리함
+I/O 장치 controller는 모두 버스를 지나고 그 controller들을 OS가 관리함   
 
 Memory-Mapped I/O
 
@@ -125,6 +125,9 @@ Free-Space Management
 
 free space들을 Linked list로 관리   
 
+FILE
 
+UNIX 에서의 FILE 이란?   
+연속된 binary 집합    
 
 
